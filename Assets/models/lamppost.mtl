@@ -1,0 +1,37 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.819608 0.854902
+Ks 0.330000 0.330000 0.330000
+map_Kd lamppost/Metal_Aluminum_Anodized.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.690196 0.800000
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Panel
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.615686 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd lamppost/Metal_Panel.jpg
+
+newmtl Metal_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.615686 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd lamppost/Metal_Rough.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
